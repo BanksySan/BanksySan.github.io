@@ -1,7 +1,7 @@
 {
 	"name": "Phone Tricks",
 	"short_name": "Phone Tricks",
-	"description": "",
+	"description": "One of many applications that do things on your device.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
